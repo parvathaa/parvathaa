@@ -7,8 +7,6 @@
 - 🐍 i build security tools in Python 
 - 🔍 i believe the best defenders think like attackers
 
-<br/>
-
 ## 🔗 connect with me
 
 <p>
@@ -23,18 +21,12 @@
   </a>
 </p>
 
-<br/>
-
 ## 🧰 tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-<br/>
-
-<br/>
 
 ## 📁 featured projects
 
@@ -46,5 +38,3 @@
 | [port-scanner-V1](https://github.com/parvathaa/port-scanner-V1-) | lightweight TCP port scanner using Python stdlib | Python |
 | [dns_enumerator](https://github.com/parvathaa/dns_enumerator) | DNS recon tool retrieving A, MX, NS, CNAME records | Python |
 | [webcrawler](https://github.com/parvathaa/webcrawler) | BFS web crawler with HTTP metadata extraction | Python |
-
-<br/>
