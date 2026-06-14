@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm parvatha https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/lottie.json </h1>
+<h1 align="center">hi, i'm parvatha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="40" height="40" alt="alien monster" /> </h1>
 <h3 align="center">cybersecurity analyst · blue teamer · python programmer</h3>
 
 <br/>
