@@ -1,8 +1,6 @@
 <h1 align="center">hi, i'm parvatha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="40" height="40" alt="alien monster" /> </h1>
 <h3 align="center">cybersecurity analyst · blue teamer · python programmer</h3>
 
-<br/>
-
 ## 🛡️ about me
 
 - 🔭 currently focused on **blue team operations, SOC analysis & threat hunting**
@@ -50,13 +48,3 @@
 | [webcrawler](https://github.com/parvathaa/webcrawler) | BFS web crawler with HTTP metadata extraction | Python |
 
 <br/>
-## 🐍 contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvathaa/parvathaa/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parvathaa/parvathaa/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/parvathaa/parvathaa/output/github-contribution-grid-snake.svg"/>
-</picture>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parvathaa&style=flat-square&color=grey" alt="profile views"/>
-</p>
