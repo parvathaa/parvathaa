@@ -66,7 +66,13 @@
 | [webcrawler](https://github.com/parvathaa/webcrawler) | BFS web crawler with HTTP metadata extraction | Python |
 
 <br/>
+## 🐍 contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvathaa/parvathaa/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parvathaa/parvathaa/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/parvathaa/parvathaa/output/github-contribution-grid-snake.svg"/>
+</picture>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parvathaa&style=flat-square&color=grey" alt="profile views"/>
 </p>
