@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm parvatha 👾</h1>
+<h1 align="center">hi, i'm parvatha https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/lottie.json </h1>
 <h3 align="center">cybersecurity analyst · blue teamer · python programmer</h3>
 
 <br/>
@@ -29,28 +29,12 @@
 
 ## 🧰 tech stack
 
-**security & analysis**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-
-**languages & tools**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <br/>
-
-## 📊 my stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvathaa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvathaa&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
 
 <br/>
 
