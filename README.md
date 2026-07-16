@@ -1,28 +1,15 @@
 <h1 align="left">hi, i'm parvatha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="40" height="40" alt="alien monster" /> </h1>
+
 <h3 align="left">cybersecurity analyst · blue teamer · python programmer</h3>
 
-## 🛡️ about me
+🌐 [p4rvatha.com](https://p4rvatha.com)
 
+## 🛡️ about me
 - 🔭 currently focused on **blue team operations, SOC analysis & threat hunting**
 - 🐍 i build security tools in Python 
 - 🔍 i believe the best defenders think like attackers
 
-## 🔗 connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/parvatha-cybersec/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tryhackme.com/p/pvee" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
-  <a href="https://parvathaa.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
 ## 📁 featured projects
-
 | project | description | stack |
 |---|---|---|
 | [elastic-siem-homelab](https://github.com/parvathaa/elastic-siem-homelab) | SIEM homelab for hands-on threat detection | Elastic |
