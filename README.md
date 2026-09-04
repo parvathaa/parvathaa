@@ -12,7 +12,6 @@
 ## 📁 featured projects
 | project | description | stack |
 |---|---|---|
-| [elastic-siem-homelab](https://github.com/parvathaa/elastic-siem-homelab) | SIEM homelab for hands-on threat detection | Elastic |
 | [wireshark-beaconing-analysis](https://github.com/parvathaa/wireshark-beaconing-analysis) | detecting C2 beaconing via network traffic analysis | Wireshark |
 | [OWASP-Risk-Enumerator](https://github.com/parvathaa/OWASP-Risk-Enumerator) | UI tool to calculate risk using OWASP factors | HTML |
 | [port-scanner-V1](https://github.com/parvathaa/port-scanner-V1-) | lightweight TCP port scanner using Python stdlib | Python |
